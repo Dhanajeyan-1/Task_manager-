@@ -1,4 +1,4 @@
-#  Java Task Manager\
+# Task Manager  using Java
 
 It is a simple taskmanager Like Every ones project, I  just created to just test my ability 
 It runs in the command line that  helps you manage your daily tasks but we want o select the options with numbers
@@ -24,9 +24,3 @@ I used core Java features like:
 - File saving (serialization)
 - Basic input from the user
 
----
-
-##How to Use
-
-1. Make sure you have Java installed
-2. Compile the files:

@@ -1,6 +1,6 @@
 #  Java Task Manager\
 
-It is a simple taskmanager Like Every ones project I  just created to just test my ability 
+It is a simple taskmanager Like Every ones project, I  just created to just test my ability 
 It runs in the command line that  helps you manage your daily tasks but we want o select the options with numbers
 
 ---
@@ -8,11 +8,11 @@ It runs in the command line that  helps you manage your daily tasks but we want 
 ## Features 
 
 - Add new tasks with title, description, deadline, and priority
-- View all the tasks you've added
+- View all the tasks you've added(All task in single view )
 - Update existing tasks
 - Delete tasks you no longer need
-- Mark tasks as completed
-- Saves everything automatically, even if you close and reopen the program
+- Mark tasks as completed(After completion )
+- Saves everything automatically, even if you close and reopen the program ,dont need to save any task  just go inside select the options and set  or close it will autmatically save it 
 
 ---
 
@@ -26,7 +26,7 @@ I used core Java features like:
 
 ---
 
-##  How to Use
+##How to Use
 
 1. Make sure you have Java installed
 2. Compile the files:
